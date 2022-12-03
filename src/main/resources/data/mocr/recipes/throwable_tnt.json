@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" B ", " T ", " B "],
+  "key": {
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "B": {
+      "item": "minecraft:bow"
+    }
+  },
+  "result": {
+    "item": "mocr:throwable_tnt",
+    "count": 1
+  }
+}

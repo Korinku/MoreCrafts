@@ -1,0 +1,20 @@
+{
+  "item.mocr.coal_pickaxe": "Picareta de Carvão",
+  "item.mocr.log_pickaxe": "Picareta de Tronco de Madeira",
+  "item.mocr.glass_miner": "Picareta de Vidro",
+  "item.mocr.apple_totem": "Maça de Totem",
+  "item.mocr.amethyst_apple": "Maça de Ametista",
+  "item.mocr.diamond_block_sword": "Espada de Bloco de Diamante",
+  "item.mocr.coal_sword": "Espada de Carvão",
+  "item.mocr.diamond_broadsword": "Espada de Diamante Longa",
+  "item.mocr.sword_of_undying": "Espada da Imortalidade",
+  "item.mocr.amethyst_sword": "Espada de Ametista",
+  "item.mocr.throwable_tnt": "TNT Atirável",
+
+  "item.mocr.copper_helmet": "Capacete de Cobre",
+  "item.mocr.copper_chestplate": "Peitoral de Cobre",
+  "item.mocr.copper_legs": "Calça de Cobre",
+  "item.mocr.copper_boots": "Bota de Cobre",
+
+  "itemGroup.mocr.morecrafs_group": "Crafts Customizados"
+}

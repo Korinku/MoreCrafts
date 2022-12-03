@@ -1,0 +1,48 @@
+{
+  "display": {
+    "title": {
+      "text": "Crafts Customizados",
+      "bold": false,
+      "italic": true
+    },
+    "description": {
+      "text": "hoje é normal"
+    },
+    "icon": {
+      "item": "mocr:sword_of_undying"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+  },
+  "criteria": {
+    "Placed": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:crafting_table"
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "mocr:amethyst_apple",
+      "mocr:amethyst_sword",
+      "mocr:apple_totem",
+      "mocr:coal_pickaxe",
+      "mocr:coal_sword",
+      "mocr:diamond_block_sword",
+      "mocr:diamond_broadsword",
+      "mocr:glass_miner",
+      "mocr:log_pickaxe",
+      "mocr:sword_of_undying",
+      "mocr:throwable_tnt",
+      "mocr:wool_to_string",
+      "mocr:copper_helmet",
+      "mocr:copper_chestplate",
+      "mocr:copper_legs",
+      "mocr:copper_boots"
+    ]
+  }
+}

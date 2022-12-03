@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" B ", " B ", " D "],
+  "key": {
+    "B": {
+      "item": "minecraft:diamond_block"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "mocr:diamond_block_sword",
+    "count": 1
+  }
+}

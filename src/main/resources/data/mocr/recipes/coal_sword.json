@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" B ", " B ", " C "],
+  "key": {
+    "C": {
+      "item": "minecraft:coal"
+    },
+    "B": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "item": "mocr:coal_sword",
+    "count": 1
+  }
+}
